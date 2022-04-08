@@ -1,3 +1,5 @@
+#!/bin/bash
+apt-get update && apt-get upgrade -y
 MANIFEST="https://gitlab.com/OrangeFox/sync.git"
 OEM="motorola"
 DEVICE="chef"
