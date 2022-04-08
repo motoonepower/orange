@@ -2,7 +2,7 @@ task:
     name: motoonepower
     timeout_in: 4h
     container:
-      image: ghcr.io/sushrut1101/docker:arch
+      image: aarunalr/aosp-build
       cpu: 8
       memory: 32g
     
